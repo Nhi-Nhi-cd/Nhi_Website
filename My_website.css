@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Main title */
+h1 {
+    background-image: url(./Images/pattern.webp);
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+/* Product category headings */
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* Brushes heading */
+.brushes {
+    background-color: mediumspringgreen;
+}
+
+/* Frames heading */
+.frames {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: #89CFF0;
+}
+
+.price {
+    color: blue;
+    font-weight: bold;
+}
+
